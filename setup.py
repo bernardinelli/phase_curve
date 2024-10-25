@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/bernardinelli/phase_curve",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU License",
+        "License ::  MIT",
         "Operating System :: OS Independent",
     ],
     packages=["phase_curve"],
